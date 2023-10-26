@@ -1,1 +1,26 @@
-/*# sourceMappingURL=style.css.map */
+.frame {
+  border: 50px solid black;
+  width: 500px;
+  padding: 50px;
+  margin: 20px auto;
+}
+.frame .canvas {
+  width: 500px;
+  height: 600px;
+  background-color: #4d0f00;
+  overflow: hidden;
+}
+.frame .canvas .one {
+  width: 425px;
+  height: 150px;
+  background-color: #efb762;
+  margin: 20px auto;
+}
+.frame .canvas .two {
+  width: 475px;
+  height: 200px;
+  background-color: #8f0401;
+}
+.frame .card {
+  width: 300px;
+}/*# sourceMappingURL=style.css.map */
